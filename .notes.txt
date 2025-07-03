@@ -1,0 +1,2 @@
+git rm --cached => if file is already tracked, it will remove it from the index but keep it in the working directory
+git rm -f => if if file is already tracked, it will remove it from the index along with working directory
